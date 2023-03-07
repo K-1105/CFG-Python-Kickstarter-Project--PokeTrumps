@@ -12,4 +12,4 @@ The game can:
 
 🥇	This project awarded us special commendation for being voted the best on the course:  🥇
 
-![CFG certificate](/assets/small certificate.png)
+![CFG certificate](/small-certificate.png)
